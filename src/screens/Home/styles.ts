@@ -5,6 +5,6 @@ export const Container = styled.View`
   justify-content: center;
   align-items: center;
 
-  font-family: ${({ theme }) => theme.};
+  font-family: ${({ theme }) => theme.fonts.bold};
 `;
 export const Titlebanner = styled.Text``;

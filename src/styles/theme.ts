@@ -1,4 +1,4 @@
-const Theme = {
+export default {
   colors: {
     product: {
       redDark: "#BF3B44",
@@ -34,5 +34,3 @@ const Theme = {
     medium: `32px`,
   },
 };
-
-export default Theme;
