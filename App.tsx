@@ -6,7 +6,7 @@ import {
 } from "@expo-google-fonts/nunito-sans";
 
 import { ThemeProvider } from "styled-components/native";
-import theme from "src/styles/theme";
+import theme from "./src/styles/theme";
 
 import { Home } from "@screens/Home";
 

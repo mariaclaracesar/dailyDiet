@@ -22,15 +22,15 @@ export default {
     },
   },
   fonts: {
-    regular: "Nunito_400Regular",
-    bold: "Nunito_700Bold",
+    regular: "NunitoSans_400Regular",
+    bold: "NunitoSans_700Bold",
   },
   dimensions: {
-    nano: `12px`,
-    xxxSmall: `14px`,
-    xxSmall: `16px`,
-    xSmall: `18px`,
-    small: `24px`,
-    medium: `32px`,
+    nano12: `12px`,
+    xxxSmall14: `14px`,
+    xxSmall16: `16px`,
+    xSmall18: `18px`,
+    small24: `24px`,
+    medium32: `32px`,
   },
 };
