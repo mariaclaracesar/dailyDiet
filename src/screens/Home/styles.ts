@@ -4,7 +4,5 @@ export const Container = styled.View`
   flex: 1;
   justify-content: center;
   align-items: center;
-
-  font-family: ${({ theme }) => theme.fonts.bold};
 `;
 export const Titlebanner = styled.Text``;
